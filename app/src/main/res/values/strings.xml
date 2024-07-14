@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QrCodeScanningApp</string>
+    <string name="android_qr_code_scanner">android Qr code Scanner</string>
+</resources>
